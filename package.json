@@ -1,0 +1,13 @@
+{
+  "name": "SteveOfErathostenes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SieveOfErathostenes.js",
+  "scripts": {
+    "start": "nodemon SteveOfErathostenes.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
